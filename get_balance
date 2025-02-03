@@ -10,9 +10,9 @@ import matplotlib.dates as mdates
 from datetime import datetime
 
 # 🔑 Bitget API 키 정보
-API_KEY = 'bg_9bdba877461badce3843691adf3fbeda'
-SECRET_KEY = 'd4e850077e4734c1e52995c7a4a5fa7000ed8389c7f5f71a8312533dfbf6b065'
-PASSPHRASE = 'jerry1203'
+API_KEY = ''
+SECRET_KEY = ''
+PASSPHRASE = ''
 
 # 🟢 계정 유형 설정: 'futures' 또는 'spot'
 ACCOUNT_TYPE = 'futures'  # 또는 'spot'
